@@ -57,7 +57,7 @@ const Home: React.FC = () => {
           />
         </div>
       </div>
-      <About />
+      {/* <About /> */}
     </>
   );
 };
